@@ -464,3 +464,4 @@ class _MediaWidgetState extends State<MediaWidget> {
     });
   }
 }
+
